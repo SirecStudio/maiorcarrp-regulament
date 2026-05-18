@@ -2,15 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sirecstudio.github.io/maiorcarrp-regulament/</loc>
-    <lastmod>2026-05-18T10:37:36Z</lastmod>
   </url>
   <url>
-    <loc>https://sirecstudio.github.io/maiorcarrp-regulament/consimtamant-conduita/</loc>
-    <lastmod>2026-05-18T10:37:36Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sirecstudio.github.io/maiorcarrp-regulament/cerinte-acces/</loc>
-    <lastmod>2026-05-18T10:37:36Z</lastmod>
+    <loc>https://sirecstudio.github.io/maiorcarrp-regulament/important/</loc>
+    <lastmod>2026-05-18T10:47:11Z</lastmod>
   </url>
   <url>
     <loc>https://sirecstudio.github.io/maiorcarrp-regulament/reguli-generale/</loc>
@@ -43,5 +38,13 @@
   <url>
     <loc>https://sirecstudio.github.io/maiorcarrp-regulament/sanctiuni/</loc>
     <lastmod>2026-05-18T09:04:43Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sirecstudio.github.io/maiorcarrp-regulament/important/consimtamant-conduita/</loc>
+    <lastmod>2026-05-18T10:47:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sirecstudio.github.io/maiorcarrp-regulament/important/cerinte-acces/</loc>
+    <lastmod>2026-05-18T10:47:11Z</lastmod>
   </url>
 </urlset>

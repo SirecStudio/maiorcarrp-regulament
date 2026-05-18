@@ -2,9 +2,8 @@
 
 > Regulamentul oficial al serverului RedM.
 
-- [Regulament Oficial](https://sirecstudio.github.io/maiorcarrp-regulament/index.md): Regulament Oficial
-- [Cerinte de Acces](https://sirecstudio.github.io/maiorcarrp-regulament/cerinte-acces.md): Pentru a participa pe Maiorca RRP, fiecare jucator trebuie sa respecte cateva cerinte de baza. Acestea sunt obligatorii si ajuta la pastrarea unei experiente Real Roleplay clare, serioase si usor de urmarit pentru toata comunitatea.
-- [Consimtamant si Conduita](https://sirecstudio.github.io/maiorcarrp-regulament/consimtamant-conduita.md): Anumite tipuri de roleplay necesita consimtamant clar intre jucatorii implicati. Respectarea limitelor personale este obligatorie, indiferent de contextul IC sau de directia unei scene.
+- [Welcome](https://sirecstudio.github.io/maiorcarrp-regulament/): Welcome
+- [Regulament Oficial](https://sirecstudio.github.io/maiorcarrp-regulament/important/index.md): Bine ai venit pe serverul Maiorca RRP.
 - [Reguli Generale](https://sirecstudio.github.io/maiorcarrp-regulament/reguli-generale.md): Urmatoarele reguli reprezinta baza comportamentului pe server. Ele se aplica permanent, din momentul conectarii, indiferent daca esti singur, intr-o discutie, intr-o urmarire, la job, intr-un conflict sau intr-o interactiune aparent minora.
 - [Roleplay si Interpretare](https://sirecstudio.github.io/maiorcarrp-regulament/roleplay.md): Trebuie sa ramai in caracter pe durata interactiunilor roleplay. Actiunile tale trebuie sa aiba logica, motivatie si consecinte.
 - [Comunicare si Comportament](https://sirecstudio.github.io/maiorcarrp-regulament/comunicare.md): Limbajul vulgar moderat poate exista in roleplay daca se potriveste scenei, dar atacurile personale, injuriile excesive si jignirile in afara caracterului sunt interzise.
@@ -13,3 +12,8 @@
 - [Economie si Bunuri](https://sirecstudio.github.io/maiorcarrp-regulament/economie-bunuri.md): Tranzactiile intre jucatori trebuie sa fie justificate roleplay. Inselatoriile pot fi permise doar daca sunt roleplay coerente si nu exploateaza mecanici sau increderea OOC.
 - [Staff si Reclamatii](https://sirecstudio.github.io/maiorcarrp-regulament/staff-reclamatii.md): Deciziile staff trebuie respectate pe moment. Daca nu esti de acord, poti face contestatie ulterior prin canalul oficial.
 - [Sanctiuni](https://sirecstudio.github.io/maiorcarrp-regulament/sanctiuni.md): Sanctiunile sunt aplicate in functie de gravitate, intentie, impact si istoricul jucatorului.
+
+## Important
+
+- [Cerinte de Acces](https://sirecstudio.github.io/maiorcarrp-regulament/important/cerinte-acces.md): Pentru a participa pe Maiorca RRP, fiecare jucator trebuie sa respecte cateva cerinte de baza. Acestea sunt obligatorii si ajuta la pastrarea unei experiente Real Roleplay clare, serioase si usor de urmarit pentru toata comunitatea.
+- [Consimtamant si Conduita](https://sirecstudio.github.io/maiorcarrp-regulament/important/consimtamant-conduita.md): Anumite tipuri de roleplay necesita consimtamant clar intre jucatorii implicati. Respectarea limitelor personale este obligatorie, indiferent de contextul IC sau de directia unei scene.
