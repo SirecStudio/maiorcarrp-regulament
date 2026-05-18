@@ -1,0 +1,6 @@
+.retype/
+retype.manifest
+node_modules/
+npm-debug.log*
+.DS_Store
+Thumbs.db

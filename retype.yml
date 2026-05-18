@@ -1,0 +1,27 @@
+input: .
+output: .retype
+url: https://sirecstudio.github.io/maiorcarrp-regulament/
+
+branding:
+  title: Maiorca RRP
+  label: Regulament
+
+meta:
+  title: " | Regulament RedM"
+  description: Regulamentul oficial al serverului RedM.
+
+links:
+  - text: Discord
+    link: https://discord.gg/
+    icon: comment-discussion
+    target: blank
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. Toate drepturile rezervate."
+
+generator:
+  recase: all
+
+search:
+  hotkeys:
+    - "/"
