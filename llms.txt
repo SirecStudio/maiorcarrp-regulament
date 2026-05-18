@@ -1,0 +1,13 @@
+﻿#  | Regulament RedM
+
+> Regulamentul oficial al serverului RedM.
+
+- [Regulament Oficial](https://sirecstudio.github.io/maiorcarrp-regulament/index.md): Regulament Oficial
+- [Reguli Generale](https://sirecstudio.github.io/maiorcarrp-regulament/reguli-generale.md): Este obligatoriu sa ai un comportament civilizat fata de ceilalti jucatori si fata de echipa staff. Insultele grave, amenintarile reale, hartuirea, discriminarea si comportamentul toxic nu sunt tolerate.
+- [Roleplay si Interpretare](https://sirecstudio.github.io/maiorcarrp-regulament/roleplay.md): Trebuie sa ramai in caracter pe durata interactiunilor roleplay. Actiunile tale trebuie sa aiba logica, motivatie si consecinte.
+- [Comunicare si Comportament](https://sirecstudio.github.io/maiorcarrp-regulament/comunicare.md): Limbajul vulgar moderat poate exista in roleplay daca se potriveste scenei, dar atacurile personale, injuriile excesive si jignirile in afara caracterului sunt interzise.
+- [Factiuni si Joburi](https://sirecstudio.github.io/maiorcarrp-regulament/factiuni-joburi.md): Membrii factiunilor si ai joburilor publice reprezinta serverul prin actiunile lor. Abuzul de functie, coruptia fara aprobare si folosirea beneficiilor de job in scop personal pot fi sanctionate.
+- [Infractiuni si Conflicte](https://sirecstudio.github.io/maiorcarrp-regulament/infractiuni-conflicte.md): Orice conflict trebuie sa aiba motiv roleplay. Atacurile fara context, jafurile repetitive si violenta gratuita afecteaza calitatea serverului.
+- [Economie si Bunuri](https://sirecstudio.github.io/maiorcarrp-regulament/economie-bunuri.md): Tranzactiile intre jucatori trebuie sa fie justificate roleplay. Inselatoriile pot fi permise doar daca sunt roleplay coerente si nu exploateaza mecanici sau increderea OOC.
+- [Staff si Reclamatii](https://sirecstudio.github.io/maiorcarrp-regulament/staff-reclamatii.md): Deciziile staff trebuie respectate pe moment. Daca nu esti de acord, poti face contestatie ulterior prin canalul oficial.
+- [Sanctiuni](https://sirecstudio.github.io/maiorcarrp-regulament/sanctiuni.md): Sanctiunile sunt aplicate in functie de gravitate, intentie, impact si istoricul jucatorului.
