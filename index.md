@@ -11,6 +11,8 @@ Necunoasterea regulamentului nu te scuteste de sanctiuni. Staff-ul poate interve
 ## Structura regulamentului
 
 - [Reguli generale](reguli-generale.md)
+- [Cerinte de acces](cerinte-acces.md)
+- [Consimtamant si conduita](consimtamant-conduita.md)
 - [Roleplay si interpretare](roleplay.md)
 - [Comunicare si comportament](comunicare.md)
 - [Factiuni si joburi](factiuni-joburi.md)
